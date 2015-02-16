@@ -1,0 +1,9 @@
+c:\users\joey\documents\visual studio 2013\Projects\MonteCarloGMB\MonteCarloGMB\bin\Debug\MonteCarloGMB.exe.config
+c:\users\joey\documents\visual studio 2013\Projects\MonteCarloGMB\MonteCarloGMB\bin\Debug\MonteCarloGMB.exe
+c:\users\joey\documents\visual studio 2013\Projects\MonteCarloGMB\MonteCarloGMB\bin\Debug\MonteCarloGMB.pdb
+c:\users\joey\documents\visual studio 2013\Projects\MonteCarloGMB\MonteCarloGMB\obj\Debug\MonteCarloGMB.csprojResolveAssemblyReference.cache
+c:\users\joey\documents\visual studio 2013\Projects\MonteCarloGMB\MonteCarloGMB\obj\Debug\MonteCarloGMB.Form1.resources
+c:\users\joey\documents\visual studio 2013\Projects\MonteCarloGMB\MonteCarloGMB\obj\Debug\MonteCarloGMB.Properties.Resources.resources
+c:\users\joey\documents\visual studio 2013\Projects\MonteCarloGMB\MonteCarloGMB\obj\Debug\MonteCarloGMB.csproj.GenerateResource.Cache
+c:\users\joey\documents\visual studio 2013\Projects\MonteCarloGMB\MonteCarloGMB\obj\Debug\MonteCarloGMB.exe
+c:\users\joey\documents\visual studio 2013\Projects\MonteCarloGMB\MonteCarloGMB\obj\Debug\MonteCarloGMB.pdb
